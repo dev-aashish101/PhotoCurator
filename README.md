@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/PhotoCurator-Native%20macOS%20Photo%20Pipeline-0F172A?style=for-the-badge&logo=apple&logoColor=white" alt="PhotoCurator Logo" />
 
   <h1>PhotoCurator</h1>
-  <h3>AI-assisted culling, RAW processing, scoring, and export for photographers</h3>
+  <h3>AI-assisted culling, RAW processing, scoring, and export for creators/photographers</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Swift-5.9%2B-F05138?style=flat&logo=swift&logoColor=white" alt="Swift">
