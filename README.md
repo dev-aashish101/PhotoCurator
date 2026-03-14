@@ -99,6 +99,13 @@ Standard:
 - darktable installed (`darktable-cli` resolvable from known paths or `DARKTABLE_CLI_PATH`)
 - Optional: `DARKTABLE_CONFIGDIR` for custom darktable config directory
 
+## Setup
+
+1. Install Darktable
+2. Import the DTstyles in the darktable GUI
+3. Make sure the name of the darktable styles is exactly the same as the names in the files in the dtstyle in Resources folder
+4. Install or directly run the release folder's PhotoCurator application in your mac
+
 ## Export Output Layout
 
 Processing workspace:
